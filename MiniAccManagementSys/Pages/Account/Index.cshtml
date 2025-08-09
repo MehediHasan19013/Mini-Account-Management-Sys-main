@@ -1,0 +1,10 @@
+﻿@page
+@model MiniAccManagementSys.Pages.Account.IndexModel
+@{
+    ViewData["Title"] = "Chart of Accounts";
+}
+
+<h2>@ViewData["Title"]</h2>
+<a class="btn btn-primary mb-3" asp-page="Create">+ New Account</a>
+
+<partial name="~/Pages/Account/_AccountListPartial.cshtml" model="Model.Accounts" />

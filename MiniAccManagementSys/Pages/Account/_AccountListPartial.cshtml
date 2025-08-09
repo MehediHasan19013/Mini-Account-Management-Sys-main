@@ -1,0 +1,30 @@
+﻿@model List<MiniAccManagementSys.Models.ChartOfAccount>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Parent</th>
+            <th>Type</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var acc in Model)
+        {
+            <tr>
+                <td>@acc.Name</td>
+                <td>@(acc.ParentId.HasValue ? acc.ParentId.ToString() : "None")</td>
+                <td>@acc.AccountType</td>
+                <td>
+                    <a asp-page="/Account/Edit" asp-route-id="@acc.Id" class="btn btn-sm btn-primary me-1">
+                        <i class="bi bi-pencil-square"></i> Edit
+                    </a>
+                    <a asp-page="/Account/Delete" asp-route-id="@acc.Id" class="btn btn-sm btn-danger">
+                        <i class="bi bi-trash"></i> Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
