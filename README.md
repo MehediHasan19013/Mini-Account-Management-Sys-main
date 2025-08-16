@@ -51,8 +51,8 @@ Stored Procedure: `sp_SaveVoucher`
 les.png)
 
  📘 Edit Accounts  
-![Edit Account](screenshots/c![edit](https://github.com/user-attachments/assets/5ba0aa64-6061-4147-8dc9-c21a8807f86c)
-hart_of_accounts.png)
+<img width="686" height="417" alt="image" src="https://github.com/user-attachments/assets/c3fbef3d-b461-4111-a9c0-3c3be520d462" />
+
 
  🧾 Delete Accounts  
 ![D](https://github.com/user-attachments/assets/f6ba7824-05b9-47b9-a13d-5455f1df4a51)
