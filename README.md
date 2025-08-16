@@ -44,9 +44,7 @@ Stored Procedure: `sp_SaveVoucher`
 ![home](https://github.com/user-attachments/assets/98c92dad-264e-4a4d-b9c7-78f5cf8dcee9)
 .png)
 
-📋 Dashboard  
-![Dashboard](screenshots/dash![add](https://github.com/user-attachments/assets/4fd71fd3-a67d-4f89-b4fe-dbef2a69f1a7)
-board.png)
+
 
 👥 User Create  
 ![Create Account](screenshots/ro![create](https://github.com/user-attachments/assets/b1232dea-8aac-475d-9e11-f12f50405ab6)
@@ -57,8 +55,7 @@ les.png)
 hart_of_accounts.png)
 
  🧾 Delete Accounts  
-![Delete Account](screen![delete](https://github.com/user-attachments/assets/d4ceea6f-d371-4b31-84af-3cf4ef8b9ddd)
-shots/voucher_entry.png)
+![D](https://github.com/user-attachments/assets/f6ba7824-05b9-47b9-a13d-5455f1df4a51)
 
 ⚙️ Getting Started
 
